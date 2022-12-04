@@ -1,0 +1,13 @@
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/bin/Debug/netcoreapp3.1/ex3.deps.json
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/bin/Debug/netcoreapp3.1/ex3.runtimeconfig.json
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/bin/Debug/netcoreapp3.1/ex3.runtimeconfig.dev.json
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/bin/Debug/netcoreapp3.1/ex3.dll
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/bin/Debug/netcoreapp3.1/ex3.pdb
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.csproj.AssemblyReference.cache
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.AssemblyInfoInputs.cache
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.AssemblyInfo.cs
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.csproj.CoreCompileInputs.cache
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.dll
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.pdb
+/Users/stefanegomes/Desktop/Roteiro3/ex3/ex3/obj/Debug/netcoreapp3.1/ex3.genruntimeconfig.cache

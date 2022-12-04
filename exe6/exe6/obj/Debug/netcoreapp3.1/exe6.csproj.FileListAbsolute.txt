@@ -1,0 +1,13 @@
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/bin/Debug/netcoreapp3.1/exe6.deps.json
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/bin/Debug/netcoreapp3.1/exe6.runtimeconfig.json
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/bin/Debug/netcoreapp3.1/exe6.runtimeconfig.dev.json
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/bin/Debug/netcoreapp3.1/exe6.dll
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/bin/Debug/netcoreapp3.1/exe6.pdb
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.csproj.AssemblyReference.cache
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.AssemblyInfoInputs.cache
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.AssemblyInfo.cs
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.csproj.CoreCompileInputs.cache
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.dll
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.pdb
+/Users/stefanegomes/Desktop/Roteiro3/exe6/exe6/obj/Debug/netcoreapp3.1/exe6.genruntimeconfig.cache
